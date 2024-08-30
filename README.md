@@ -16,7 +16,28 @@
 - **Materialize**: A CSS framework that provides modern UI components.
 
 ## File Structure
-/visualize-it |-- /sorting_algos | |-- simulation.html | |-- bubble_sort.js | |-- selection_sort.js | |-- insertion_sort.js | |-- cocktail_shaker_sort.js | |-- heap_sort.js | |-- quick_sort.js | |-- merge_sort.js | |-- Heap.js | |-- helper.js | |-- sorting_algos.js | |-- user_input.js |-- /gradient_descent | |-- simulation.html |-- index.html |-- styles.css |-- basic.js |-- mathjax.js |-- gtag.js
+/visualize-it
+|-- /sorting_algos
+|   |-- simulation.html
+|   |-- bubble_sort.js
+|   |-- selection_sort.js
+|   |-- insertion_sort.js
+|   |-- cocktail_shaker_sort.js
+|   |-- heap_sort.js
+|   |-- quick_sort.js
+|   |-- merge_sort.js
+|   |-- Heap.js
+|   |-- helper.js
+|   |-- sorting_algos.js
+|   |-- user_input.js
+|-- /gradient_descent
+|   |-- simulation.html
+|-- index.html
+|-- styles.css
+|-- basic.js
+|-- mathjax.js
+|-- gtag.js
+
 
 
 ## Getting Started
