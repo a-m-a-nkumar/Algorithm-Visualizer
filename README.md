@@ -16,6 +16,7 @@
 - **Materialize**: A CSS framework that provides modern UI components.
 
 ## File Structure
+```
 /visualize-it
 |-- /sorting_algos
 |   |-- simulation.html
@@ -37,7 +38,7 @@
 |-- basic.js
 |-- mathjax.js
 |-- gtag.js
-
+```
 
 
 ## Getting Started
